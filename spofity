@@ -1,0 +1,5 @@
+docker pull sanjaym08/spotify:v5
+docker pull sanjaym08/spotify:v4
+docker pull sanjaym08/spotify:v3
+docker pull sanjaym08/spotify:v2
+docker pull sanjaym08/spotify:v1
